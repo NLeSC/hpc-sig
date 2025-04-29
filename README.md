@@ -21,7 +21,7 @@ Contact persons:
 | 2025-04-10 | Stefan Verhoeven | Containers for testing HPC and grid |
 | 2025-04-24 | Tuna Kalayci (Leiden University) | Archēbot: An Attempt for a Swarm Robotic System for Archaeological Fieldwork |
 | 2025-05-08 | TBD | TBD |
-| 2025-05-22 | TBD | TBD |
+| 2025-05-22 | SIG | Report on the CI/CD internal hackathon |
 | 2025-06-05 | TBD | TBD |
 | 2025-06-19 | TBD | TBD |
 | 2025-07-03 | TBD | TBD |
