@@ -20,7 +20,7 @@ Contact persons:
 | 2025-03-27 | Leon Oostrum | Vendor-agnostic host code with gpuwrappers |
 | 2025-04-10 | Stefan Verhoeven | Containers for testing HPC and grid |
 | 2025-04-24 | Tuna Kalayci (Leiden University) | Archēbot: An Attempt for a Swarm Robotic System for Archaeological Fieldwork |
-| 2025-05-08 | TBD | TBD |
+| 2025-05-08 | Leon Oostrum | Directive-based programming on GPUs: OpenMP vs OpenACC |
 | 2025-05-22 | SIG | Report on the CI/CD internal hackathon |
 | 2025-06-05 | TBD | TBD |
 | 2025-06-19 | TBD | TBD |
