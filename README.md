@@ -22,7 +22,7 @@ Contact persons:
 | 2025-04-24 | Tuna Kalayci (Leiden University) | Archēbot: An Attempt for a Swarm Robotic System for Archaeological Fieldwork |
 | 2025-05-08 | Leon Oostrum | Directive-based programming on GPUs: OpenMP vs OpenACC |
 | 2025-05-22 | SIG | Report on the CI/CD internal hackathon |
-| 2025-06-05 | TBD | TBD |
+| 2025-06-05 | SIG | Update meeting |
 | 2025-06-19 | TBD | TBD |
 | 2025-07-03 | TBD | TBD |
 | 2025-07-17 | TBD | TBD |
