@@ -23,7 +23,7 @@ Contact persons:
 | 2025-05-08 | Leon Oostrum | Directive-based programming on GPUs: OpenMP vs OpenACC |
 | 2025-05-22 | SIG | Report on the CI/CD internal hackathon |
 | 2025-06-05 | Floris-Jan Willemsen | Efficient Hyperparameter Tuning for Auto-tuning |
-| 2025-06-19 | TBD | TBD |
+| 2025-06-19 | Leon Oostrum | The Tensor-Core Beamformer: A High-Speed Signal-Processing Library for Multidisciplinary Use |
 | 2025-07-03 | TBD | TBD |
 | 2025-07-17 | TBD | TBD |
 | 2025-07-31 | TBD | TBD |
