@@ -26,7 +26,13 @@ Contact persons:
 | 2025-06-19 | Leon Oostrum | The Tensor-Core Beamformer: A High-Speed Signal-Processing Library for Multidisciplinary Use |
 | 2025-07-03 | TBD | TBD |
 | 2025-07-17 | TBD | TBD |
-| 2025-07-31 | TBD | TBD |
+| 2025-09-25 | TBD | TBD |
+| 2025-10-09 | TBD | TBD |
+| 2025-10-23 | TBD | TBD |
+| 2025-11-06 | TBD | TBD |
+| 2025-11-20 | TBD | TBD |
+| 2025-12-04 | TBD | TBD |
+| 2025-12-18 | TBD | TBD |
 
 # 2024 Sessions
 
