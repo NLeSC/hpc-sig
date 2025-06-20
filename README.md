@@ -24,7 +24,7 @@ Contact persons:
 | 2025-05-22 | SIG | Report on the CI/CD internal hackathon |
 | 2025-06-05 | Floris-Jan Willemsen | Efficient Hyperparameter Tuning for Auto-tuning |
 | 2025-06-19 | Leon Oostrum | The Tensor-Core Beamformer: A High-Speed Signal-Processing Library for Multidisciplinary Use |
-| 2025-07-03 | TBD | TBD |
+| 2025-07-03 | Ozgun Erdogan (ubicloud) | Cloud virtualization: Red Hat, AWS Firecracker, and Ubicloud internals |
 | 2025-07-17 | TBD | TBD |
 | 2025-09-25 | TBD | TBD |
 | 2025-10-09 | TBD | TBD |
