@@ -26,7 +26,7 @@ Contact persons:
 | 2025-06-19 | Leon Oostrum | The Tensor-Core Beamformer: A High-Speed Signal-Processing Library for Multidisciplinary Use |
 | 2025-07-03 | Ozgun Erdogan (ubicloud) | Cloud virtualization: Red Hat, AWS Firecracker, and Ubicloud internals |
 | 2025-07-17 | TBD | TBD |
-| 2025-09-25 | TBD | TBD |
+| 2025-09-25 | Henk Dreuning (SURF) | LUMI: One of Europe's fastest supercomputers (Tentative title) |
 | 2025-10-09 | TBD | TBD |
 | 2025-10-23 | TBD | TBD |
 | 2025-11-06 | TBD | TBD |
