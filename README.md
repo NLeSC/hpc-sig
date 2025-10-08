@@ -25,7 +25,7 @@ Contact persons:
 | 2025-06-05 | Floris-Jan Willemsen | Efficient Hyperparameter Tuning for Auto-tuning |
 | 2025-06-19 | Leon Oostrum | The Tensor-Core Beamformer: A High-Speed Signal-Processing Library for Multidisciplinary Use |
 | 2025-07-03 | Ozgun Erdogan (ubicloud) | Frontier AI models: A review of past nine months |
-| 2025-09-25 | TBD | TBD |
+| 2025-09-25 | SIG | Updates and planning session |
 | 2025-10-09 | Henk Dreuning (SURF) | LUMI: One of Europe's fastest supercomputers |
 | 2025-10-23 | TBD | TBD |
 | 2025-11-06 | TBD | TBD |
