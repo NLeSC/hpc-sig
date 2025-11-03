@@ -28,7 +28,7 @@ Contact persons:
 | 2025-09-25 | SIG | Updates and planning session |
 | 2025-10-09 | Henk Dreuning (SURF) | LUMI: One of Europe's fastest supercomputers |
 | 2025-11-06 | Alessio Sclocco and Stijn Heldens | HP2SIM: parallelizing a high-performance finite element toolbox in Julia |
-| 2025-11-20 | Elena Ranguelova? or Alessio Sclocco and Stijn Heldens | Nomenclature of our Computing technological expertise |
+| 2025-11-20 | SIG | Nomenclature of our Computing Technological Expertise |
 | 2025-12-18 | Stijn Heldens | Introduction to Mixed-Precision GPU Programming |
 
 # 2024 Sessions
