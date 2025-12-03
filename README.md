@@ -10,7 +10,22 @@ Contact persons:
 * Alessio Sclocco (a.sclocco@esciencecenter.nl)
 * Stijn Heldens (s.heldens@esciencecenter.nl)
 
-# 2025 Sessions
+# 2026 Calendar
+
+| Date | Presenter | Topic |
+|------|----------------|-------|
+| 2026-01-20 | TBD | TBD |
+| 2026-02-12 | TBD | TBD |
+| 2026-02-26 | TBD | TBD |
+| 2026-03-12 | TBD | TBD |
+| 2026-04-09 | TBD | TBD |
+| 2026-05-07 | TBD | TBD |
+| 2026-05-21 | TBD | TBD |
+| 2026-06-04 | TBD | TBD |
+| 2026-06-18 | TBD | TBD |
+| 2026-07-02 | TBD | TBD |
+
+# 2025 Calendar
 
 | Date | Presenter | Topic |
 |------|----------------|-------|
@@ -32,7 +47,7 @@ Contact persons:
 | 2025-11-20 | SIG | Nomenclature of our Computing Technological Expertise |
 | 2025-12-18 | Stijn Heldens | Introduction to Mixed-Precision GPU Programming |
 
-# 2024 Sessions
+# 2024 Calendar
 
 | Date | Presenter | Topic |
 |------|----------------|-------|
@@ -57,8 +72,7 @@ Contact persons:
 | 2024-12-05 | Lucas Esclapez | OpenACC directives tuning with Kernel Tuner: application to DALES |
 | 2024-12-19 | Ivy Wang (Student UvA/VU) | Multi-GPU Implementation in MRI Reconstruction |
 
-
-# 2023 Sessions
+# 2023 Calendar
 
 | Date | Presenter | Topic |
 |------|----------------|-------|
@@ -78,7 +92,7 @@ Contact persons:
 | 2023-11-02 | SIG | ESiWACE3 Hackathon and MPI PotreeConverter |
 | 2023-11-30 | Stijn Heldens | Kernel Float: Auto-tuning mixed precision GPU kernels |
 
-# 2022 Sessions
+# 2022 Calendar
 
 | Date | Presenter | Topic |
 |------|----------------|-------|
@@ -95,7 +109,7 @@ Contact persons:
 | 2022-11-10 | Lars van den Haak (TU Eindhoven) | Verifying and Optimizing GPU software using the Domain Specific Language Halide |
 | 2022-12-01 | Stijn Heldens | Kernel Launcher: Integrating Kernel-Tuner into C++ |
 
-# 2021 Sessions
+# 2021 Calendar
 
 | Date | Presenter | Topic |
 |------|----------------|-------|
@@ -112,7 +126,7 @@ Contact persons:
 | 2021-11-04 | SIG | Projects update session | 
 | 2021-11-25 | Gijs van den Oord | Using OpenACC to accelerate an ocean model | 
 
-# 2020 Sessions
+# 2020 Calendar
 
 | Date | Presenter | Topic |
 |------|----------------|-------|
@@ -130,7 +144,7 @@ Contact persons:
 | 2020-11-12 | Alessio Sclocco | Porting the FESOM 2.0 model to GPUs |
 | 2020-12-03 | Federico Fadda (UvA) | GPU simulation of active Brownian particle interactions via the Lennard-Jones force |
 
-# 2019 Sessions
+# 2019 Calendar
 
 | Date | Presenter | Topic |
 |------|----------------|-------|
