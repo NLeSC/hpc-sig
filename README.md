@@ -1,12 +1,12 @@
-# [HPC-SIG] the Netherlands eScience Center Special Interest Group on High-Performance Computing
+# [HPC-SIG] Netherlands eScience Center Special Interest Group on High-Performance Computing
 
-The special interest group on High-Performance Computing (formerly the GPU SIG) of the Netherlands eScience Center comes together roughly every two weeks to share knowledge and experience on the latest research and technological developments relevant to high-performance computing.
+The High-Performance Computing (HPC) Special Interest Group (formerly known as the GPU SIG) at the Netherlands eScience Center is a community that meets approximately every two weeks to discuss cutting-edge research, technological advancements, and best practices in high-performance computing. 
 
-The meetings are usually centered around a single presentation about HPC-related research or its application within a project. We encourage anyone to present applications that have compute-related performance issues, which allows the group to give advice on how to improve performance and fix performance issues in the code. Occasionally we invite external speakers, for example academic or industry experts, or students who did a related masters projects.
+Each meeting typically revolves around a single presentation focused on HPC-related research or its practical application within ongoing projects. We welcome participants to share applications or workflows that face compute-intensive challenges, as this allows the group to provide tailored advice for optimizing performance and addressing code-level issues. From time to time, we also invite external speakers, including academic researchers, industry experts, and students who have completed relevant master’s projects, to enrich our discussions with diverse perspectives.
 
-If you would like to present or invite an external speaker, please feel free to subscribe for any of the upcoming sessions in the table below using a pull request.
+If you are interested in presenting your work or would like to suggest an external speaker, please feel free to get involved by subscribing to any of the upcoming sessions. Contributions can be made via a pull request to the session calendar below, or by sending an email to one of the contact people.
 
-Contact persons:
+Contact people:
 * Alessio Sclocco (a.sclocco@esciencecenter.nl)
 * Stijn Heldens (s.heldens@esciencecenter.nl)
 
