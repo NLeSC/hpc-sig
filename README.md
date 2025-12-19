@@ -15,7 +15,7 @@ Contact people:
 | Date | Presenter | Topic |
 |------|----------------|-------|
 | 2026-01-20 | TBD | TBD |
-| 2026-02-12 | TBD | TBD |
+| 2026-02-12 | Leon Oostrum | Debugging MPI + GPU code on HPC systems |
 | 2026-02-26 | TBD | TBD |
 | 2026-03-12 | TBD | TBD |
 | 2026-04-09 | TBD | TBD |
