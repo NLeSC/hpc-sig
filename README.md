@@ -15,6 +15,7 @@ Contact people:
 | Date | Presenter | Topic |
 |------|----------------|-------|
 | 2026-01-20 | TBD | TBD |
+| 2026-01-29 | Hanno Spreeuw | Debugging 15-Year-Old Code with CUDA-GDB |
 | 2026-02-12 | Leon Oostrum | Debugging MPI + GPU code on HPC systems |
 | 2026-02-26 | TBD | TBD |
 | 2026-03-12 | TBD | TBD |
