@@ -18,12 +18,6 @@ Contact people:
 | 2026-02-12 | Leon Oostrum | Debugging MPI + GPU code on HPC systems |
 | 2026-02-26 | TBD | TBD |
 | 2026-03-12 | Alexander Hadjiivanov | Tutorial on Neuromorphic Computing (Tentative) |
-| 2026-04-09 | TBD | TBD |
-| 2026-05-07 | TBD | TBD |
-| 2026-05-21 | TBD | TBD |
-| 2026-06-04 | TBD | TBD |
-| 2026-06-18 | TBD | TBD |
-| 2026-07-02 | TBD | TBD |
 
 # 2025 Calendar
 
