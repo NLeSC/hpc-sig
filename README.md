@@ -1,6 +1,6 @@
-# [HPC-SIG] Netherlands eScience Center Special Interest Group on High-Performance Computing
+# [AC-SIG] Netherlands eScience Center Special Interest Group on Advanced Computing
 
-The High-Performance Computing (HPC) Special Interest Group (formerly known as the GPU SIG) at the Netherlands eScience Center is a community that meets approximately every two weeks to discuss cutting-edge research, technological advancements, and best practices in high-performance computing. 
+The Advanced Computing (AC) Special Interest Group (formerly known as both the GPU and HPC SIG) at the Netherlands eScience Center is a community that meets approximately every month to discuss cutting-edge research, technological advancements, and best practices in high-performance computing. 
 
 Each meeting typically revolves around a single presentation focused on HPC-related research or its practical application within ongoing projects. We welcome participants to share applications or workflows that face compute-intensive challenges, as this allows the group to provide tailored advice for optimizing performance and addressing code-level issues. From time to time, we also invite external speakers, including academic researchers, industry experts, and students who have completed relevant master’s projects, to enrich our discussions with diverse perspectives.
 
