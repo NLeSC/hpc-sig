@@ -9,6 +9,7 @@ If you are interested in presenting your work or would like to suggest an extern
 Contact people:
 * Alessio Sclocco (a.sclocco@esciencecenter.nl)
 * Stijn Heldens (s.heldens@esciencecenter.nl)
+* Leon Oostrum (l.oostrum@esciencecenter.nl)
 
 # 2026 Calendar
 
