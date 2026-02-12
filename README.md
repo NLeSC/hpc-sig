@@ -19,6 +19,7 @@ Contact people:
 | 2026-03-05 | Alexander Hadjiivanov | Tutorial on Neuromorphic Computing |
 | 2026-04-02 | SIG | Project update session |
 | 2026-05-28 | - | - |
+| 2026-06-25 | - | - |
 | 2026-09-17 | - | - |
 | 2026-11-12 | - | - |
 | 2026-12-10 | - | - |
